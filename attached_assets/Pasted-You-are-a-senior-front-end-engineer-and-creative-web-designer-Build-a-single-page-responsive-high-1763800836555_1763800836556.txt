@@ -1,0 +1,350 @@
+You are a senior front-end engineer and creative web designer.
+Build a single-page, responsive, highly polished portfolio website for:
+
+Name: Avdhoot Ramkrishna Nakod
+Role: Data Scientist and Machine Learning Engineer
+Location: Pune, Maharashtra, India
+Email: nakodavdhoot@gmail.com
+
+Phone: +91 87660 12472
+
+LinkedIn: https://www.linkedin.com/in/avdhoot-nakod/
+
+GitHub: https://github.com/Avdhoot1574/
+
+Kaggle: https://www.kaggle.com/avdhootnakod
+
+The goal:
+I want a beautiful, modern, scroll-driven portfolio site that I can host and share on LinkedIn so recruiters can easily see everything about me in one place. The design should feel like a premium agency / creative dev portfolio, with smooth scrolling and advanced scroll animations, but still be lightweight and clean.
+
+🔧 Tech & Structure Requirements
+
+Use HTML + CSS + JavaScript in a single project (you can structure as index.html, style.css, script.js or a single HTML file with <style> and <script> — whichever is cleaner).
+
+Use GSAP + ScrollTrigger (via CDN) for scroll-based animations.
+
+Optionally use Lenis or a similar smooth-scroll library for buttery scrolling.
+
+The site should be fully responsive (desktop, tablet, mobile).
+
+Use a dark, modern color palette with vibrant accents (cyan / teal / purple / orange).
+
+Use a clean sans-serif font like Poppins, Inter, or similar (via Google Fonts).
+
+Include semantic HTML and good accessibility (proper headings, alt text placeholders, readable contrast).
+
+Add basic SEO tags (title, meta description, open graph basics).
+
+🧩 Content to Include (Use These Texts & Improve Flow)
+1. Hero Section
+
+Show my name clearly and my role:
+
+“Avdhoot Ramkrishna Nakod”
+
+“Data Scientist & Machine Learning Engineer”
+
+Tagline (use this and feel free to slightly polish the phrasing):
+
+“Data-driven thinking. ML-powered execution.”
+
+Short hero summary:
+
+“I enjoy taking messy, real-world data and turning it into clear insights and production-ready machine learning systems. From analysis and feature engineering to model development, I focus on building solutions that are practical, efficient, and impactful.”
+
+Show that I’m open to roles:
+
+“Open to: Data Science · Machine Learning · Data Analytics roles (Remote · Hybrid · Onsite)”
+
+Include CTA buttons:
+
+Button 1: “View Projects” → scrolls to Projects section
+
+Button 2: “Contact Me” → scrolls to Contact section
+
+Show quick hero stats, such as:
+
+“End-to-end ML: From data cleaning to evaluation-ready models”
+
+“Core Stack: Python · SQL · Scikit-learn · Streamlit”
+
+“Focus Areas: Operations analytics · Predictive modeling · Automation”
+
+Add a nice card or panel on the right side that looks like a mini profile:
+
+My name, role, location, availability, and social icons (LinkedIn, GitHub, Kaggle).
+
+2. About Section
+
+Use and refine this content into 2–3 smooth paragraphs:
+
+"I'm Avdhoot, a data-driven problem solver who loves turning raw data into clear insights and intelligent systems. I’m familiar with data analysis, machine learning, and end-to-end model development, and I enjoy building solutions that are practical, efficient, and impactful.
+
+I like working on projects that feel close to real business problems — things like predicting bottlenecks, understanding patterns in data, and building pipelines that actually get used. I care about clarity: clean code, clear analysis, and communicating results in a way that non-technical people can act on.
+
+I’m looking for opportunities in Data Science, Machine Learning, and Data Analytics — whether remote, hybrid, or onsite. I’m especially interested in roles where I can learn fast, solve real-world problems, and contribute to products that make a meaningful difference."
+
+3. Skills Section
+
+Present skills in grouped chips/cards. Organize them like this:
+
+Programming Languages
+
+Python
+
+C
+
+SQL
+
+Java (basic, working knowledge)
+
+Machine Learning / Data Science
+
+Supervised & Unsupervised Learning
+
+Model Training, Evaluation & Optimization
+
+Data Cleaning & Feature Engineering
+
+Exploratory Data Analysis (EDA)
+
+ML Pipeline Building
+
+Statistics & Probability for ML
+
+Metrics: Accuracy, Precision, Recall, F1, AUC, etc.
+
+Hyperparameter Tuning (Grid Search, Random Search)
+
+Handling Imbalanced Data
+
+Real-world problem solving & end-to-end ML workflow
+
+Frameworks / Libraries
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+Matplotlib
+
+Seaborn
+
+Streamlit
+
+Basics of TensorFlow
+
+Basics of PyTorch
+
+Tools / Platforms
+
+Jupyter Notebook
+
+VS Code
+
+Git
+
+GitHub
+
+Excel (Advanced: VLOOKUP, Pivot Tables, Dashboards)
+
+Google Sheets
+
+Google Colab
+
+Other Strengths
+
+Problem Solving & Analytical Thinking
+
+Data Visualization & Storytelling
+
+Clean Code & Modular ML Practices
+
+Building KPI Dashboards
+
+Documentation & Reporting
+
+Curiosity-driven learning mindset
+
+Comfortable in fast, dynamic environments (remote or on-site)
+
+4. Projects Section
+
+I am currently a fresher, but I want my main project to stand out strongly.
+
+Create a nice card layout for projects. At least one strong project and one “coming soon” block.
+
+Project 1 – OpsFlow AI: Dynamic Ops Bottleneck Predictor & Auto-Resolution Engine
+
+Use this description and polish:
+
+Short title: “OpsFlow AI – Dynamic Operations Bottleneck Predictor”
+
+Tagline: “Predicts workflow bottlenecks before they happen and recommends data-backed fixes.”
+
+Detailed explanation (turn into bullets + a short paragraph):
+
+OpsFlow AI is an intelligent operations-optimization system that predicts workflow bottlenecks before they slow down business. It analyzes operational data — tickets, queues, delays, workloads, resource availability, and throughput — to detect early signs of congestion in any process.
+
+The engine forecasts upcoming bottlenecks using time-series style modeling and workload prediction. It then generates automatic, data-backed recommendations such as reassigning resources, redistributing load, adjusting schedules, or changing specific process steps. OpsFlow AI also produces an “Impact Score” that quantifies how much performance can improve with each suggestion.
+
+This system is designed to help companies reduce delays, cut operational costs, and maintain smooth flow across teams.
+
+Tech used:
+
+Python
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+EDA & Visualization tools
+
+You can label the project link as:
+
+“Repo / Demo coming soon” (no actual link yet).
+
+Project 2 – Placeholder: More ML & Analytics Projects (Coming Soon)
+
+Create a second card that says I am actively working on more projects, for example:
+
+Customer churn prediction
+
+KPI dashboards with Streamlit or BI tools
+
+More supervised ML projects
+
+Mention that they will be added as they become presentable and documented.
+
+5. Experience Section
+
+I am a fresher, no formal work experience yet.
+
+Create an “Experience” section that honestly shows this but still sounds professional, e.g.:
+
+Title: Aspiring Data Scientist & Machine Learning Engineer
+Type: Fresher – self-driven learning & projects
+Time: 2023 – Present
+
+Bullets:
+
+Building end-to-end machine learning and analytics projects to solve realistic business-style problems.
+
+Strengthening fundamentals in statistics, ML algorithms, feature engineering, and evaluation.
+
+Practicing clean, modular code, documentation, and storytelling to communicate results clearly to non-technical stakeholders.
+
+6. Education Section
+
+Add an Education timeline item:
+
+Degree: Bachelor’s Degree
+
+University: Savitribai Phule Pune University
+
+Location: Pune, Maharashtra, India
+
+Duration: 2023 – 2026
+
+CGPA: 9.55 / 10
+
+Short description:
+
+“Building a strong foundation in computer science, programming, algorithms, statistics, and data-related subjects.”
+
+7. Certifications Section
+
+Add these under “Education & Certifications” or a separate “Certifications” block:
+
+Data Analysis Using Python – IBM
+
+Year: 2024 (you can assume 2024 if a year is needed)
+
+Skills: Python for data analysis, data wrangling with Pandas, exploratory data analysis (EDA), descriptive statistics, and data visualization using Matplotlib and Seaborn.
+
+Intermediate Machine Learning – Kaggle
+
+Year: 2024
+
+Skills: Supervised ML algorithms, handling missing and categorical data, model validation and leakage prevention, hyperparameter tuning, gradient boosting, bagging, ensembles, and core ML concepts.
+
+8. Contact Section
+
+Include:
+
+Short text inviting recruiters to reach out:
+
+“If you’re looking for a motivated fresher who can think in terms of data, design clean ML workflows, and grow quickly with your team, I’d love to connect.”
+
+Show:
+
+Email: nakodavdhoot@gmail.com
+
+Phone: +91 87660 12472
+
+LinkedIn link
+
+GitHub link
+
+Kaggle link
+
+Add a simple contact form (Name, Email, Message).
+It doesn’t need backend; you can use mailto: or just keep it as a UI form demo.
+
+🎨 Design & Animation Requirements (Important)
+
+Make the site feel like a stylish scroll experience with smooth transitions. Use GSAP + ScrollTrigger (and optionally Lenis) to implement:
+
+Smooth scrolling across the whole site.
+
+Section reveal animations:
+
+When sections (About, Skills, Projects, Experience, Contact) enter the viewport, they should fade in and move up slightly.
+
+Hero animations:
+
+Headline text can slide in or fade up on page load.
+
+Floating background shapes (blobs or gradients) can have a slow parallax or floating effect.
+
+Scroll-triggered highlights:
+
+Navbar links should highlight based on the current section in view.
+
+Pinned / scroll-driven section (optional but great):
+
+For the Projects section, you can pin the container and have each project card animate in/out as the user scrolls.
+
+Subtle parallax:
+
+Background elements or decorative shapes can move at different speeds than the main content while scrolling.
+
+Animation constraints:
+
+Keep animations smooth and professional, not too flashy or distracting.
+
+Avoid heavy scroll-jacking; scrolling should still feel natural and user-controlled.
+
+Respect performance on mobile devices.
+
+Make sure all animations are implemented cleanly in JavaScript with GSAP/ScrollTrigger, and the code is well-structured and commented so I can understand and adjust things later.
+
+🧾 Final Output Expectations
+
+Provide all the code needed to run the website:
+
+If you split into files, show index.html, style.css, and script.js.
+
+Or give a single complete HTML file with <style> and <script> blocks.
+
+Include comments explaining:
+
+Where to edit content (in case I want to add more projects later).
+
+Where the GSAP/ScrollTrigger animations are defined and how they work.
+
+The site should be ready to deploy on Replit, GitHub Pages, Netlify, or any static host without extra build steps.
